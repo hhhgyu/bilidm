@@ -1,7 +1,6 @@
 import zipfile
 import os
 folders = ["src","examples"]
-# files = ["BLiveDMClient.h","BLiveDMClient.cpp","library.properties"]
 files = ["library.properties"]
 exclude_list = ["myconfig.h"]
 library_dir = os.path.dirname(__file__)

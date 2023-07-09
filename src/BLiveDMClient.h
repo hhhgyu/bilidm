@@ -9,9 +9,6 @@
 #include <tuple>
 #include <ArduinoJson.h>
 #include <Arduino.h>
-#include <WiFi.h>
-#include <WiFiMulti.h>
-#include <WiFiClientSecure.h>
 #include <WebSocketsClient.h>
 #include <HTTPClient.h>
 

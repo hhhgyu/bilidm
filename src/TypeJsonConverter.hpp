@@ -5,7 +5,7 @@
 #include <vector>
 #include <ArduinoJson.h>
 
-namespace ARDUINOJSON_NAMESPACE {
+namespace ArduinoJson {
 template <typename T>
 struct Converter<std::map<std::string, T> > {
   static void toJson(const std::map<std::string, T>& src, JsonVariant dst) {
@@ -52,4 +52,4 @@ struct Converter<std::vector<T> > {
     return result;
   }
 };
-}  // namespace ARDUINOJSON_NAMESPACE
+}  // namespace ArduinoJson
