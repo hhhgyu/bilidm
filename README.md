@@ -11,8 +11,10 @@
 ## 其他说明
 项目代码参考了[blivedm](https://github.com/xfgryujk/blivedm)和[wiliwili](xfangfang.github.io/wiliwili)。直接包含了[brotli](https://github.com/google/brotli)代码用于解压。
 
-B站在2023年7月左右开始对游客模式下的直播弹幕进行用户名打码、限流等操作，目前暂未解决。
+B站在2023年7月左右开始对游客模式下的直播弹幕进行用户名打码、限流等操作。需要向b站申请开发者资格，或者使用cookie，目前没有实现。
 
 
 ## 一个示例：
-![此处有图](bot.webp)
+<video height="480" controls>
+  <source src="bot.webm" type="video/webm">
+</video>
