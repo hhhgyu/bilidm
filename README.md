@@ -15,6 +15,4 @@ B站在2023年7月左右开始对游客模式下的直播弹幕进行用户名�
 
 
 ## 一个示例：
-<video height="480" controls>
-  <source src="bot.webm" type="video/webm">
-</video>
+[bot.webm](https://github.com/user-attachments/assets/33ec0812-bfbe-41fd-9f71-d2d312a1ea22)
